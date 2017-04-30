@@ -25,5 +25,7 @@ V3 - The customization update
 NOTE : I wrote this changelog before it's release. So some errors could be made.
 
 Features :
-  - Phonics Editor V1 (WIP) Pre-Released. Can now make your own boot file without Batch skills.
+  - Phonics Editor V1 (WIP) Pre-Released. Can now make your own boot file.
   - Re-coded BIOS. New interface.
+  - DowSM. A CPU Simulation still in WIP.
+  - Please read "Readme.txt" included on the PC-9000X Zip file.
