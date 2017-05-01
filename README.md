@@ -21,6 +21,22 @@ News
     - Wendows 95
     - WenDOS 2.0
     - P-DOS 3
-    - Xunil 1.0 Pistachio
+    - Xunil 1.0
+  - New utilities incoming such as :
+    - Wendows App Creation Utilities
+    - P-DOS AddOn Editor
+    - Xunil-based OS Creation Tools
+  - Upcoming features for P-DOS 3 :
+    - New Add-On support
+    - Better shell
+  - Upcoming features for Wendows 95 :
+    - Custom Application Support
+    - Better Interface
+    - Better Installation
+    
+  - Also if it interrest to you to know which softwares i use for code this simulator so here is them :
+    - Astase PowerBatch (Batch coding)
+    - Notepad (for VBScripts and quick changes in Batch files)
+    - Microsoft Visual Basic 2005 Express Edition (for GUI apps)
     
  I will also colaborate with a friend for a better experience.
