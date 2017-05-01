@@ -1,4 +1,25 @@
 # PC-9000 : A Computer Simulator made by PeanutFish
 
 PC-9000 is a old computer simulator fully coded in Batch and VBScript also called 90's Computer Simulator.
-The V1 and V2 are available but the V3 is still in work in progress.
+
+News
+---
+  - V3 is now available! Here is the new features :
+    - Boot file editor (WIP)
+    - CPU Assembly Simulator (DO NOT USE. JUST NOTICED THAT DOWSM MAKE THE APP EXIT AFTER COMMAND EXECUTION)
+    - Fixed some BIOS problems
+  - Upcoming features for the V4 :
+    - Improved boot file editor
+    - Improved Debug Mode
+    - Troobleshoot DowSM problems
+    - Ask before booting on diskette
+    - Model Name : PC-9000A
+    - Real-time Hardware Modifier (RAM/ROM Manipulation, Full-control on the computer)
+    - Update on Phonics A2 BIOS (BIOS V4)
+  - New OS incomings such as :
+    - Wendows 95
+    - WenDOS 2.0
+    - P-DOS 3
+    - Xunil 1.0 Pistachio
+    
+ I will also colaborate with a friend for a better experience.
