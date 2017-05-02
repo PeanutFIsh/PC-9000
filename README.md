@@ -15,7 +15,7 @@ News
     - [DONE] Troobleshoot DowSM problems
     - [DONE] Ask before booting on diskette
     - [DONE] Model Name : PC-9000A
-    - Real-time Hardware Modifier (RAM/ROM Manipulation, Full-control on the computer)
+    - [WIP] Real-time Hardware Controller (RAM/ROM Manipulation, Full-control on the computer)
     - [DONE] Update on Phonics A2 BIOS (BIOS V4)
   - New OS incomings such as :
     - Wendows 95
@@ -38,5 +38,17 @@ News
     - Astase PowerBatch (Batch coding)
     - Notepad (for VBScripts and quick changes in Batch files)
     - Microsoft Visual Basic 2005 Express Edition (for GUI apps)
+    
+  - How does the RT (Realtime) Hardware Controller will work ?
+    - You'll be able to control anything (BIOS, ROM, RAM, etc.)
+    - Useful for debugging
+    - For access to the RT Hardware Controller, remove your bootfile, run in Debug Mode and select the 3rd option
+    - When run, the computer will restart in Remote Mode. You control now the BIOS, the ROM and the RAM
+  - Main features for the RT Hardware Controller :
+    - Deny/Grant access to the ROM/Boot file/Debug Mode/etc.
+    - Enter CPU commands.
+    - Manipulate Files.
+    - Make files in the file system.
+    
     
  I will also colaborate with a friend for a better experience.
