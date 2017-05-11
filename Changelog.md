@@ -29,3 +29,16 @@ Features :
   - DowSM. A CPU Simulation still in WIP.
   - Added following commands in the CPU Manipulation System : add, sub, mov.
   - Please read "Readme.txt" included on the PC-9000X Zip file.
+
+# =======================
+V4-PreRelease - Brand new, big, and stable update!
+------
+
+Features :
+ - Phonics Editor V2 Released! More stable, better interface!
+ - DowSM Issues Fixed
+ - DiskExtract System Released! An easier installation system!
+ - 2085 incoming for the V4-Final (Like a DowSM V2)
+ - New model name : PC-9000A
+ - Stop removing 'diskette.bat' after usage! Now the BIOS asks you if you want to boot in!
+ - Fixed some Phonics Editor issues. Removed the 'DELETE BOOT FILE' button for some reasons.
