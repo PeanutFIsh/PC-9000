@@ -18,7 +18,7 @@ News
     - New BIOS (A2 BIOS)
     - New Installation System : The DiskExtractor.
     + INFO : The update took me more time than i tought because of data loss and laziness (srx xD)
-    - Whoops! I forgot to write a Readme file.
+    - ~~Whoops! I forgot to write a Readme file.~~ The Readme.txt file included in the ZIP is outdated. Do not use.
   - V3 is now available! Here is the new features :
     - Boot file editor (WIP)
     - CPU Assembly Simulator (DO NOT USE. JUST NOTICED THAT DOWSM MAKE THE APP EXIT AFTER COMMAND EXECUTION)
