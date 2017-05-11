@@ -4,9 +4,12 @@ PC-9000 is a old computer simulator fully coded in Batch and VBScript also calle
 
 News
 ---
+   - Outel news :
+      - Outel is happy to introduce the brand new Outel 2085 incoming for the Final Release of the PC-9000A
+      - Hell yea! The PC-9000A-Final will have a new CPU! With an improved programming language!
    - Upcoming features for the V4 :
-    + INFO : Most of the features are done but the V4 is still unstable so i will not publish it now.
-    - Real-time Hardware Controller (RAM/ROM Manipulation, Full-control on the computer)
+      - RT Hardware Controller
+      - a Readme file (xD)
   - V4-PreRelease is now available! (A2 BIOS.zip) Here is the new features :
     - Improved Debug Mode
     - Fixed DowSM Issues
