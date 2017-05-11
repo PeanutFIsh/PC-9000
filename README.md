@@ -4,19 +4,22 @@ PC-9000 is a old computer simulator fully coded in Batch and VBScript also calle
 
 News
 ---
+   - Upcoming features for the V4 :
+    + INFO : Most of the features are done but the V4 is still unstable so i will not publish it now.
+    - Real-time Hardware Controller (RAM/ROM Manipulation, Full-control on the computer)
+  - V4-PreRelease is now available! (A2 BIOS.zip) Here is the new features :
+    - Improved Debug Mode
+    - Fixed DowSM Issues
+    - Ask before booting on diskette
+    - Model Name is now PC-9000A
+    - New BIOS (A2 BIOS)
+    - New Installation System : The DiskExtractor.
+    + INFO : The update took me more time than i tought because of data loss and laziness (srx xD)
+    - Whoops! I forgot to write a Readme file.
   - V3 is now available! Here is the new features :
     - Boot file editor (WIP)
     - CPU Assembly Simulator (DO NOT USE. JUST NOTICED THAT DOWSM MAKE THE APP EXIT AFTER COMMAND EXECUTION)
     - Fixed some BIOS problems
-  - Upcoming features for the V4 :
-    + INFO : Most of the features are done but the V4 is still unstable so i will not publish it now.
-    - Improved boot file editor
-    - [DONE] Improved Debug Mode
-    - [DONE] Troobleshoot DowSM problems
-    - [DONE] Ask before booting on diskette
-    - [DONE] Model Name : PC-9000A
-    - [WIP] Real-time Hardware Controller (RAM/ROM Manipulation, Full-control on the computer)
-    - [DONE] Update on Phonics A2 BIOS (BIOS V4)
   - New OS incomings such as :
     - Wendows 95
     - WenDOS 2.0
