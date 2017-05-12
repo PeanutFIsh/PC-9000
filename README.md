@@ -7,9 +7,9 @@ News
    - Outel news :
       - Outel is happy to introduce the brand new Outel 2085 incoming for the Final Release of the PC-9000A
       - Hell yea! The PC-9000A-Final will have a new CPU! With an improved programming language!
-   - Upcoming features for the V4 :
-      - RT Hardware Controller
-      - a Readme file (xD)
+  - V4 Done (but still not available) ! Here is the new features :
+    - A Readme file
+    - ~~RT Hardware Controller~~ (I can't due to some limitations)
   - V4-PreRelease is now available! (A2 BIOS.zip) Here is the new features :
     - Improved Debug Mode
     - Fixed DowSM Issues
