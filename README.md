@@ -4,12 +4,16 @@ PC-9000 is a old computer simulator fully coded in Batch and VBScript also calle
 
 News
 ---
+   - Some news apps are released! Here's them :
+      - Multi-Diskette system (DO NOT USE IF IT'S AN INSTALLATION DISKETTE)
+      - Wendows Pack (Some old Wendows version made 2 years ago are included in only one pack)
+   - V4 Released! Here is the brand new features :
+      - A basic OS (BaseBoot Menu) can be installed trought the debugger mode if you don't have any OS.
+      - For this version. An early access version of P-DOS 3.0 is included. Just install it using DiskExtractor
+      - Fixed some DiskExtractor Issues.
    - Outel news :
       - Outel is happy to introduce the brand new Outel 2085 incoming for the Final Release of the PC-9000A
-      - Hell yea! The PC-9000A-Final will have a new CPU! With an improved programming language!
-  - V4 Done (but still not available) ! Here is the new features :
-    - A Readme file
-    - ~~RT Hardware Controller~~ (I can't due to some limitations)
+      - Hell yea! The ~~PC-9000A-Final~~ (for the V4.5) will have a new CPU! With an improved programming language!
   - V4-PreRelease is now available! (A2 BIOS.zip) Here is the new features :
     - Improved Debug Mode
     - Fixed DowSM Issues
@@ -45,7 +49,7 @@ News
     - Notepad (for VBScripts and quick changes in Batch files)
     - Microsoft Visual Basic 2005 Express Edition (for GUI apps)
     
-  - How does the RT (Realtime) Hardware Controller will work ?
+  - ~~How does the RT (Realtime) Hardware Controller will work ?
     - You'll be able to control anything (BIOS, ROM, RAM, etc.)
     - Useful for debugging
     - For access to the RT Hardware Controller, remove your bootfile, run in Debug Mode and select the 3rd option
@@ -54,7 +58,7 @@ News
     - Deny/Grant access to the ROM/Boot file/Debug Mode/etc.
     - Enter CPU commands.
     - Manipulate Files.
-    - Make files in the file system.
+    - Make files in the file system.~~
     
     
  I will also colaborate with a friend for a better experience.
