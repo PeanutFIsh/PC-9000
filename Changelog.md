@@ -38,7 +38,18 @@ Features :
  - Phonics Editor V2 Released! More stable, better interface!
  - DowSM Issues Fixed
  - DiskExtract System Released! An easier installation system!
- - 2085 incoming for the V4-Final (Like a DowSM V2)
+ - ~~2085 incoming for the V4-Final (Like a DowSM V2)~~ (Comming for the V4.5)
  - New model name : PC-9000A
  - Stop removing 'diskette.bat' after usage! Now the BIOS asks you if you want to boot in!
  - Fixed some Phonics Editor issues. Removed the 'DELETE BOOT FILE' button for some reasons.
+ 
+# =======================
+V4 - Finally a README file! :O
+------
+
+Features :
+ - DiskExtract updated.
+ - An Early Access version of P-DOS 3.0 is included. You just have to install it using DiskExtractor!
+ - Improved Debugger. A basic operating system (BaseBoot Menu) can be installed trought the debugger mode.
+ - A README File.
+ 
