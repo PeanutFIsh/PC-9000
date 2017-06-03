@@ -4,6 +4,13 @@ PC-9000 is a old computer simulator fully coded in Batch and VBScript also calle
 
 News
 ---
+   - Work in progress! Some new things still in development gotta be relesaed soon!
+      - Xunil 1.0 is in development. With a simple way for make OSes.
+      - P-DOS 3.0 Incoming!
+      - Some programming languages gotta be released : Pipe Avanced AddOn System, Xunil and 95Basic
+      - A new class of computers will be added : The BAS-9 A simple computer with basic interpreter.
+      - BAS-9 Model 95 will be uploaded soon.      
+      - PC-9100 will be released as soon as possible, same for Wendows 95
    - Some news apps are released! Here's them :
       - Multi-Diskette system (DO NOT USE IF IT'S AN INSTALLATION DISKETTE)
       - Wendows Pack (Some old Wendows version made 2 years ago are included in only one pack)
