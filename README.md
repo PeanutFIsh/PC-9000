@@ -4,6 +4,8 @@ PC-9000 is a old computer simulator fully coded in Batch and VBScript also calle
 
 News
 ---
+   - A brand new computer will come out soon called the J-1XX series :
+      - Working on the J-100, which includes future updates for softwares
    - Here ya got some new software :
       - Xunil 1.0 released! Use it trought the BAS-9 Xunil Model 95
       - BAS-9 Model 95 released!
