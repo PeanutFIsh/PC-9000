@@ -45,9 +45,9 @@ News
     - P-DOS 3
     - Xunil 1.0
   - New utilities incoming such as :
-    - Wendows App Creation Utilities
-    - P-DOS AddOn Editor
-    - Xunil-based OS Creation Tools
+    - ~~Wendows App Creation Utilities~~ (Use 95Basic for make your own apps)
+    - ~~P-DOS AddOn Editor~~ (PDOS Addon Basic will be directly included in P-DOS 3 Pro)
+    - ~~Xunil-based OS Creation Tools~~ (Useless)
   - Upcoming features for P-DOS 3 :
     - New Add-On support
     - Better shell
