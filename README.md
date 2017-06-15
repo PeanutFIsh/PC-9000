@@ -7,6 +7,7 @@ News
    - NEW CONTENT! :
       - PC-9100 PreRelease 1 is out! This update includes 95Basic support, bootmaker 2.1 and a ZIP Support for diskettes
       - J-100 released! This includes future updates for P-DOS 3 and 4, Hard Drive Simulation and Update for PC-9100 (splash screen)
+      - Wendows 95 is now out!
    - Here ya got some new software :
       - Xunil 1.0 released! Use it trought the BAS-9 Xunil Model 95
       - BAS-9 Model 95 released!
