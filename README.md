@@ -4,8 +4,9 @@ PC-9000 is a old computer simulator fully coded in Batch and VBScript also calle
 
 News
 ---
-   - A brand new computer will come out soon called the J-1XX series :
-      - Working on the J-100, which includes future updates for softwares
+   - NEW CONTENT! :
+      - PC-9100 PreRelease 1 is out! This update includes 95Basic support, bootmaker 2.1 and a ZIP Support for diskettes
+      - J-100 released! This includes future updates for P-DOS 3 and 4, Hard Drive Simulation and Update for PC-9100 (splash screen)
    - Here ya got some new software :
       - Xunil 1.0 released! Use it trought the BAS-9 Xunil Model 95
       - BAS-9 Model 95 released!
@@ -14,8 +15,6 @@ News
       - Windows 95 ALPHA (Codename Venus) released. Use it for testing purposes
    - Work in progress! Some new things still in development gotta be relesaed soon!
       - P-DOS 3.0 Incoming!
-      - BAS-9 Model 95 will be uploaded soon.      
-      - PC-9100 will be released as soon as possible, same for Wendows 95
    - Some news apps are released! Here's them :
       - Multi-Diskette system (DO NOT USE IF IT'S AN INSTALLATION DISKETTE)
       - Wendows Pack (Some old Wendows version made 2 years ago are included in only one pack)
