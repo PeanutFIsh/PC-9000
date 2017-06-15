@@ -53,3 +53,12 @@ Features :
  - Improved Debugger. A basic operating system (BaseBoot Menu) can be installed trought the debugger mode.
  - A README File.
  
+ # =======================
+ V5 (PC-9100) - A Extracted Update!
+ ------
+ 
+ Features :
+  - 7z Console included for ZIP unpacking. Useful for compact diskette installations.
+  - 95Basic pre-installed
+  - Phonics Editor 2.1 released!
+ 
