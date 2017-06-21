@@ -1,6 +1,6 @@
 # Changelog
 
-V1 - PC-9000 Released
+V1 (PC-9000BETA) - PC-9000 Released
 ------
 Use "hdd" for boot the OS and "dsk" for boot on diskette
 
@@ -11,7 +11,7 @@ Features :
  - OS Simulation
  
 # =======================
-V2 - Some new things
+V2 (PC-9000) - Some new things
 ------
 Features :
  - Some new diskettes made by me are available :
@@ -20,7 +20,7 @@ Features :
  - Brand new BIOS! Not command-line anymore. Detect it automatically!
  
 # =======================
-V3 - The customization update
+V3 (PC-9000X) - The customization update
 ------
 
 Features :
@@ -31,7 +31,7 @@ Features :
   - Please read "Readme.txt" included on the PC-9000X Zip file.
 
 # =======================
-V4-PreRelease - Brand new, big, and stable update!
+V4-PreRelease (PC-9000A) - Brand new, big, and stable update!
 ------
 
 Features :
@@ -44,7 +44,7 @@ Features :
  - Fixed some Phonics Editor issues. Removed the 'DELETE BOOT FILE' button for some reasons.
  
 # =======================
-V4 - Finally a README file! :O
+V4 (PC-9000A-Final) - Finally a README file! :O
 ------
 
 Features :
