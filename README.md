@@ -4,6 +4,15 @@ PC-9000 is a old computer simulator fully coded in Batch and VBScript also calle
 
 News
 ---
+   - BRAND NEW UPDATES INCOMING! :
+      - First, sorry for being so inactive for 2 months, i were in holidays and i was fixing a laptop!
+      - PRODUCTIVITY BOOST! Since that my laptop works, i can program everywhere without problems!
+      - NEW VERSION OF VISUAL STUDIO! I am now using Microsoft Visual Studio 2017 Community for GUI Apps!
+      - CROSS PLATFORMS INCOMING! A version of PC-9000 called PY-9000 will be a Python 3 version of the PC-9000 for more compatibility!
+      - I'm getting back to work! J-101 will come as soon as possible.
+      - BIG UPDATE ON THE WEBSITE! Since i have Dreamweaver CC and Muse CC, i can make the PC-9000 Project page better!
+      - HTML EDITION! I am working on Project HTML 9000, a HTML version of PC-9000 for test it! Every devices supporting HTML will be allowed to try it without installing it!
+      - NEW BATCH AND VBS EDITOR! I will search for a better Batch and VBScript because the one i'm using is outdated.
    - NEW CONTENT! :
       - PC-9100 PreRelease 1 is out! This update includes 95Basic support, bootmaker 2.1 and a ZIP Support for diskettes
       - J-100 released! This includes future updates for P-DOS 3 and 4, Hard Drive Simulation and Update for PC-9100 (splash screen)
@@ -59,7 +68,7 @@ News
   - Also if it interrest to you to know which softwares i use for code this simulator so here is them :
     - Astase PowerBatch (Batch coding)
     - Notepad (for VBScripts and quick changes in Batch files)
-    - Microsoft Visual Basic 2005 Express Edition (for GUI apps)
+    - Microsoft Visual Studio 2017 Community (for GUI-based apps)
     
     
     
