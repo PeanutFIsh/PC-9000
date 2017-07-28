@@ -71,6 +71,9 @@ News
     - Astase PowerBatch (Batch coding)
     - Notepad (for VBScripts and quick changes in Batch files)
     - Microsoft Visual Studio 2017 Community (for GUI-based apps)
+    - Adobe Dreamweaver CC 2017 (for coding HTML port)
+    - IDLE Python 3.6 (for coding Python Port)
+    - Adobe Muse CC (for make the homepage)
     
     
     
