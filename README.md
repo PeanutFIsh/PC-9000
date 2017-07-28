@@ -3,7 +3,9 @@
 PC-9000 is a old computer simulator fully coded in Batch and VBScript also called 90's Computer Simulator.
 
 News
----
+-----
+   - Project HTML 9000 Log, project just started :
+      - I'm starting programming the engine in JavaScript in Dreamweaver!
    - BRAND NEW UPDATES INCOMING! :
       - First, sorry for being so inactive for 2 months, i were in holidays and i was fixing a laptop!
       - PRODUCTIVITY BOOST! Since that my laptop works, i can program everywhere without problems!
