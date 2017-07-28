@@ -1,0 +1,14 @@
+<manifest alg="2" build="30" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="3983832653"/>
+    <file name="content.css" crc="4085806182" ref="content"/>
+    <file name="index.css" crc="3967276702" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:content"/>
+    <file name="museutils.js" crc="4291592202" ref="index:content"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:content"/>
+  </folder>
+  <file name="index.html" crc="209042463" mt="1501231933938" redirect="true"/>
+  <file name="content.html" crc="200738547" mt="1501231511077" redirect="true"/>
+</manifest>

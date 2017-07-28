@@ -1,0 +1,133 @@
+.html
+{
+	background-color: #7F7F7F;
+}
+
+#page
+{
+	z-index: 1;
+	width: 921px;
+	min-height: 460.9999999999999px;
+	background-image: none;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 20px 19px 19.000000000000114px 20px;
+}
+
+#pu69
+{
+	width: 0.01px;
+	position: relative;
+}
+
+#u69
+{
+	z-index: 2;
+	width: 919px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #006837;
+	padding-bottom: 3px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u71-3
+{
+	z-index: 4;
+	width: 5px;
+	line-height: 41px;
+	font-size: 34px;
+	font-family: Courier New, Courier, monospace;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 34px;
+	left: 19px;
+}
+
+#u74-4
+{
+	z-index: 10;
+	width: 548px;
+	min-height: 46px;
+	color: #00FF00;
+	line-height: 43px;
+	font-size: 36px;
+	font-family: Courier New, Courier, monospace;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 19px;
+	left: 14px;
+}
+
+#u73-3
+{
+	z-index: 7;
+	width: 5px;
+	margin-left: 171px;
+	margin-top: 4px;
+	position: relative;
+}
+
+#u75-19
+{
+	z-index: 14;
+	width: 890px;
+	min-height: 169px;
+	font-family: Courier New, Courier, monospace;
+	margin-left: 14px;
+	top: -9px;
+	margin-bottom: -9px;
+	position: relative;
+}
+
+#u75-2,#u75-4,#u75-6,#u75-8,#u75-10,#u75-11,#u75-13,#u75-15,#u75-16
+{
+	color: #00FF00;
+	font-weight: bold;
+}
+
+#u85
+{
+	z-index: 33;
+	width: 200px;
+	min-height: 100px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 113px;
+	margin-top: 1px;
+	position: relative;
+}
+
+#u70
+{
+	z-index: 3;
+	width: 919px;
+	height: 380px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #009245;
+	top: -283px;
+	margin-bottom: -283px;
+	position: relative;
+}
+
+body
+{
+	padding-top: 35px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

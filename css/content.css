@@ -1,0 +1,61 @@
+.html
+{
+	background-color: #7F7F7F;
+}
+
+#page
+{
+	z-index: 1;
+	width: 872px;
+	min-height: 385px;
+	background-image: none;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 53px 40px 62px 48px;
+}
+
+#u82-54
+{
+	z-index: 2;
+	width: 872px;
+	min-height: 502px;
+	line-height: 30px;
+	font-size: 25px;
+	font-family: Courier New, Courier, monospace;
+	font-weight: bold;
+	position: relative;
+}
+
+#u82
+{
+	text-decoration: underline;
+}
+
+#u82-5,#u82-7,#u82-9,#u82-11,#u82-13,#u82-16,#u82-18,#u82-21,#u82-24,#u82-26,#u82-28,#u82-30,#u82-32,#u82-34,#u82-36,#u82-39,#u82-41,#u82-43,#u82-45,#u82-48,#u82-50,#u82-52
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u82-4,#u82-6,#u82-8,#u82-10,#u82-12,#u82-15,#u82-17,#u82-20,#u82-23,#u82-25,#u82-27,#u82-29,#u82-31,#u82-33,#u82-35,#u82-38,#u82-40,#u82-42,#u82-44,#u82-47,#u82-49,#u82-51
+{
+	font-size: 14px;
+	text-decoration: none;
+	font-weight: normal;
+	line-height: 17px;
+}
+
+body
+{
+	padding-top: 35px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
