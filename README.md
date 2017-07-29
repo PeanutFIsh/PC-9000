@@ -9,7 +9,7 @@ News
    - BRAND NEW UPDATES INCOMING! :
       - First, sorry for being so inactive for 2 months, i were in holidays and i was fixing a laptop!
       - PRODUCTIVITY BOOST! Since that my laptop works, i can program everywhere without problems!
-      - NEW VERSION OF VISUAL STUDIO! I am now using Microsoft Visual Studio 2017 Community for GUI Apps!
+      - NEW VERSION OF VISUAL STUDIO! I am now using Microsoft Visual Studio 2017 (for my Desktop PC)/ Visual Basic Express 2010 (for my laptop) for GUI Apps!
       - CROSS PLATFORMS INCOMING! A version of PC-9000 called PY-9000 will be a Python 3 version of the PC-9000 for more compatibility!
       - I'm getting back to work! J-101 will come as soon as possible.
       - BIG UPDATE ON THE WEBSITE! Since i have Dreamweaver CC and Muse CC, i can make the PC-9000 Project page better!
@@ -70,7 +70,8 @@ News
   - Also if it interrest to you to know which softwares i use for code this simulator so here is them :
     - Astase PowerBatch (Batch coding)
     - Notepad (for VBScripts and quick changes in Batch files)
-    - Microsoft Visual Studio 2017 Community (for GUI-based apps)
+    - Microsoft Visual Studio 2017 Community (for GUI-based apps)(on my Desktop PC)
+    - Microsoft Visual Basic 2010 Express (for GUI-based apps)(on my laptop PC)
     - Adobe Dreamweaver CC 2017 (for coding HTML port)
     - IDLE Python 3.6 (for coding Python Port)
     - Adobe Muse CC (for make the homepage)
