@@ -4,6 +4,18 @@ PC-9000 is a old computer simulator fully coded in Batch and VBScript also calle
 
 News
 -----
+   - In J-101, a new tool in BETA that may replace bootmaker on the PC-9100, called Phonics Utility :
+      - PhonicsBASIC BIOS Programming Tool
+      - Boot sequence manager.
+      - Boot manager.
+      - I'm not sure if i will do it sepratly from bootmaker, or include the boot file maker feature directly in Phonics Utility.
+   - J-101 Development started! Here is the BETA features for this version :
+      - Modifiable BIOS
+      - Pipe DOS 3 BETA.
+      - HDD Simulation.
+      - New Edition program that may replace bootmaker, Phonics Utility
+      - 95Basic II ALPHA. Includes file managing and more commands.
+      - PipeBASIC 0.1
    - Project HTML 9000 Log, project just started :
       - I'm starting programming the engine in JavaScript in Dreamweaver!
    - BRAND NEW UPDATES INCOMING! :
@@ -51,13 +63,13 @@ News
     - CPU Assembly Simulator (DO NOT USE. JUST NOTICED THAT DOWSM MAKE THE APP EXIT AFTER COMMAND EXECUTION)
     - Fixed some BIOS problems
   - New OS incomings such as :
-    - Wendows 95
-    - WenDOS 2.0
+    - ~~Wendows 95~~ (Wendows 95 is done, i'm focusing now on Wendows 96)
+    - WenDOS 1.01
     - P-DOS 3
-    - Xunil 1.0
+    - ~~Xunil 1.0~~ (Well done!)
   - New utilities incoming such as :
     - ~~Wendows App Creation Utilities~~ (Use 95Basic for make your own apps)
-    - ~~P-DOS AddOn Editor~~ (PDOS Addon Basic will be directly included in P-DOS 3 Pro)
+    - ~~P-DOS AddOn Editor~~ (PDOS Addon BASIC will be directly included in P-DOS 3 Pro)
     - ~~Xunil-based OS Creation Tools~~ (Useless)
   - Upcoming features for P-DOS 3 :
     - New Add-On support
@@ -69,7 +81,7 @@ News
     
   - Also if it interrest to you to know which softwares i use for code this simulator so here is them :
     - Astase PowerBatch (Batch coding)
-    - Notepad (for VBScripts and quick changes in Batch files)
+    - Notepad++ (Batch, VBScript edition)
     - Microsoft Visual Studio 2017 Community (for GUI-based apps)(on my Desktop PC)
     - Microsoft Visual Basic 2010 Express (for GUI-based apps)(on my laptop PC)
     - Adobe Dreamweaver CC 2017 (for coding HTML port)
