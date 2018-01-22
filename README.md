@@ -1,5 +1,9 @@
 # PC-9000 : A Computer Simulator made by PeanutFish
 
+# /!\ Development Stopped /!\
+The development of PC-9000 is stopped until the release of MiniRPG Engine BETA-1
+
+
 PC-9000 is a old computer simulator fully coded in Batch and VBScript also called 90's Computer Simulator.
 
 News
