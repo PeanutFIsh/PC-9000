@@ -1,13 +1,15 @@
 # PC-9000 : A Computer Simulator made by PeanutFish
 
-# /!\ Development Stopped /!\
-The development of PC-9000 is stopped until the release of MiniRPG Engine BETA-1
 
 
 PC-9000 is a old computer simulator fully coded in Batch and VBScript also called 90's Computer Simulator.
 
 News
 -----
+   - Getting back to work! PC-9100 will be PCX-1500
+      - J-101 work abandonned. New features from this model with come in PCX-1500
+      - Phonics Computers is proud to show you the new PCX-1500 Personnal Computer!
+      - Includes a new GUI written in C# and many new features!
    - In J-101, a new tool in BETA that may replace bootmaker on the PC-9100, called Phonics Utility :
       - PhonicsBASIC BIOS Programming Tool
       - Boot sequence manager.
@@ -87,10 +89,7 @@ News
     - Astase PowerBatch (Batch coding)
     - Notepad++ (Batch, VBScript edition)
     - Microsoft Visual Studio 2017 Community (for GUI-based apps)(on my Desktop PC)
-    - Microsoft Visual Basic 2010 Express (for GUI-based apps)(on my laptop PC)
     - Adobe Dreamweaver CC 2017 (for coding HTML port)
-    - IDLE Python 3.6 (for coding Python Port)
-    - Adobe Muse CC (for make the homepage)
     
     
     
