@@ -6,6 +6,20 @@ PC-9000 is a old computer simulator fully coded in Batch and VBScript also calle
 
 News
 -----
+   - New softwares in use!
+      - Visual Studio Code - For coding, well duh
+      - Visual Studio 2017 Community - GUI Apps are also now written in C# instead Visual Basic.
+   - PCX-1500 New features revealed! Here's the planned features
+      - Xunil Kernel integration
+      - New Diskette format. More compact and easier to install
+      - Phonics Utilities integration
+      - PhonicsBASIC integration
+      - BAS-9 Model 95 emulation
+      - Customisable BIOS
+      - DowSM and Outel 2085 development abandonned since PhonicsBASIC replace it.
+      - Phonics VapeBIOS, the brand new BIOS!
+      - Debug Menu improvement
+      - I must continue developing PipeDOS 3 :/
    - Getting back to work! PC-9100 will be PCX-1500
       - J-101 work abandonned. New features from this model with come in PCX-1500
       - Phonics Computers is proud to show you the new PCX-1500 Personnal Computer!
@@ -22,17 +36,6 @@ News
       - New Edition program that may replace bootmaker, Phonics Utility
       - 95Basic II ALPHA. Includes file managing and more commands.
       - PipeBASIC 0.1
-   - Project HTML 9000 Log, project just started :
-      - I'm starting programming the engine in JavaScript in Dreamweaver!
-   - BRAND NEW UPDATES INCOMING! :
-      - First, sorry for being so inactive for 2 months, i were in holidays and i was fixing a laptop!
-      - PRODUCTIVITY BOOST! Since that my laptop works, i can program everywhere without problems!
-      - NEW VERSION OF VISUAL STUDIO! I am now using Microsoft Visual Studio 2017 (for my Desktop PC)/ Visual Basic Express 2010 (for my laptop) for GUI Apps!
-      - CROSS PLATFORMS INCOMING! A version of PC-9000 called PY-9000 will be a Python 3 version of the PC-9000 for more compatibility!
-      - I'm getting back to work! J-101 will come as soon as possible.
-      - BIG UPDATE ON THE WEBSITE! Since i have Dreamweaver CC and Muse CC, i can make the PC-9000 Project page better!
-      - HTML EDITION! I am working on Project HTML 9000, a HTML version of PC-9000 for test it! Every devices supporting HTML will be allowed to try it without installing it!
-      - NEW BATCH AND VBS EDITOR! I will search for a better Batch and VBScript because the one i'm using is outdated.
    - NEW CONTENT! :
       - PC-9100 PreRelease 1 is out! This update includes 95Basic support, bootmaker 2.1 and a ZIP Support for diskettes
       - J-100 released! This includes future updates for P-DOS 3 and 4, Hard Drive Simulation and Update for PC-9100 (splash screen)
@@ -86,10 +89,9 @@ News
     - Better Installation
     
   - Also if it interrest to you to know which softwares i use for code this simulator so here is them :
-    - Astase PowerBatch (Batch coding)
-    - Notepad++ (Batch, VBScript edition)
-    - Microsoft Visual Studio 2017 Community (for GUI-based apps)(on my Desktop PC)
-    - Adobe Dreamweaver CC 2017 (for coding HTML port)
+    - Microsoft Visual Studio 2017 Community
+    - Microsoft Visual Studio Code
+    - SoundClo- oh wait no it's just because I love music.
     
     
     
