@@ -6,6 +6,9 @@ PC-9000 is a old computer simulator fully coded in Batch and VBScript also calle
 
 News
 -----
+   - PipeDOS 3 Rewritting. Update can be planned later
+      - PipeDOS 3 will be entirely rewritten. PipeDOS 3 was supposed to have Pipe Add-On system but since VapeADDON will replace it, the project has been abandonned.
+      - 3 editions available : Base Edition, Enhanced Edition and Xunil Edition.
    - New softwares in use!
       - Visual Studio Code - For coding, well duh
       - Visual Studio 2017 Community - GUI Apps are also now written in C# instead Visual Basic.
