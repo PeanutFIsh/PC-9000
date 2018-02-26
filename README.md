@@ -27,6 +27,9 @@ News
       - J-101 work abandonned. New features from this model with come in PCX-1500
       - Phonics Computers is proud to show you the new PCX-1500 Personnal Computer!
       - Includes a new GUI written in C# and many new features!
+
+Older and Outdated news
+-----
    - In J-101, a new tool in BETA that may replace bootmaker on the PC-9100, called Phonics Utility :
       - PhonicsBASIC BIOS Programming Tool
       - Boot sequence manager.
