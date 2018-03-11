@@ -6,6 +6,19 @@ PC-9000 is a old computer simulator fully coded in Batch and VBScript also calle
 
 News
 -----
+   - PiX-1500, a Linux ARM/Raspberry Pi portage :
+      - This is the port i mostly want to code. I recently recieved a Raspberry Pi. The portage will be probably written in Java, C++ or Linux Shell Script. So the software may be available for more OSes and architectures (depends of the programming language)
+   - News of 11/03/2018
+      - PCX-1500 is planned to be crossplatform as different versions :
+      - PiX-1500, a Raspberry Pi/Linux ARM version of PCX-1500.
+      - PyX-1500, a Python 3 version of PCX-1500
+      - CSX-1500, a C# version of PCX-1500
+      - Project HTML 9000, an HTML version of PCX-1500
+      - **Those projects are not sure to be released** , i'm only one to code it and that I am bust rn
+ 
+Older and Outdated news
+-----
+
    - PipeDOS 3 Rewritting. Update can be planned later
       - PipeDOS 3 will be entirely rewritten. PipeDOS 3 was supposed to have Pipe Add-On system but since VapeADDON will replace it, the project has been abandonned.
       - 3 editions available : Base Edition, Enhanced Edition and Xunil Edition.
@@ -28,8 +41,6 @@ News
       - Phonics Computers is proud to show you the new PCX-1500 Personnal Computer!
       - Includes a new GUI written in C# and many new features!
 
-Older and Outdated news
------
    - In J-101, a new tool in BETA that may replace bootmaker on the PC-9100, called Phonics Utility :
       - PhonicsBASIC BIOS Programming Tool
       - Boot sequence manager.
