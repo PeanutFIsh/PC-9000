@@ -6,15 +6,14 @@ PC-9000 is a old computer simulator fully coded in Batch and VBScript also calle
 
 News
 -----
-   - PiX-1500, a Linux ARM/Raspberry Pi portage :
-      - This is the port i mostly want to code. I recently recieved a Raspberry Pi. The portage will be probably written in Java, C++ or Linux Shell Script. So the software may be available for more OSes and architectures (depends of the programming language)
+   - News of 17/06/2018
+      - I'm being less and less active since i'm not as motivated as before.
+      - I'll maybe move to Sourceforge or BitBucket if Microsoft make GitHub trash.
    - News of 11/03/2018
       - PCX-1500 is planned to be crossplatform as different versions :
-      - PiX-1500, a Raspberry Pi/Linux ARM version of PCX-1500.
       - PyX-1500, a Python 3 version of PCX-1500
       - CSX-1500, a C# version of PCX-1500
-      - Project HTML 9000, an HTML version of PCX-1500
-      - **Those projects are not sure to be released** , i'm only one to code it and that I am bust rn
+      - **Those projects are not sure to be released** , i'm only one to code it and I am busy irl
  
 Older and Outdated news
 -----
