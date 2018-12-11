@@ -1,11 +1,22 @@
-# PC-9000 : A Computer Simulator made by PeanutFish
+# PC-9000 : A Computer Simulator made by MICROWAVE
 
 
 
-PC-9000 is a old computer simulator fully coded in Batch and VBScript also called 90's Computer Simulator.
+PC-9000 is a old computer simulator fully coded in ~~Batch and VBScript~~ (now written in C) also called 90's Computer Simulator.
+**REPOSITORY WILL BE CHANGED. GO CHECK PCX-1500**
 
 News
 -----
+   - News of 11/12/2018
+      - Since I am under Ubuntu 18.04 now, I can't continue this project anymore. It does no have Batch (because it's Linux, no MSDOS). And I lost the J-101 source code I was working on (also same for PCX-1500). I'm probably going to make a rewrite of this project that i've been working for 2 years in C or C++. This gonna be the PCX-1500 and it must have the following features :
+         - Full commandline. No GUI
+         - Working on Windows' commandline interpreter and Linux Terminal (try to make for both amd64/i386 and arm)
+         - New programming language for make boot files and executables (I named it PHONICSCOMPILE but it's probably gonna change)
+         - Gotta try to make the simulator as realstic as possible
+         
+Older and Outdated news
+-----
+
    - News of 17/06/2018
       - I'm being less and less active since i'm not as motivated as before.
       - I'll maybe move to Sourceforge or BitBucket if Microsoft make GitHub trash.
@@ -14,9 +25,6 @@ News
       - PyX-1500, a Python 3 version of PCX-1500
       - CSX-1500, a C# version of PCX-1500
       - **Those projects are not sure to be released** , i'm only one to code it and I am busy irl
- 
-Older and Outdated news
------
 
    - PipeDOS 3 Rewritting. Update can be planned later
       - PipeDOS 3 will be entirely rewritten. PipeDOS 3 was supposed to have Pipe Add-On system but since VapeADDON will replace it, the project has been abandonned.
