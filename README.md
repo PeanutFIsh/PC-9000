@@ -3,7 +3,7 @@
 
 
 PC-9000 is a old computer simulator fully coded in ~~Batch and VBScript~~ (now written in C) also called 90's Computer Simulator.
-**REPOSITORY WILL BE CHANGED. GO CHECK PCX-1500**
+**REPOSITORY WILL BE CHANGED. GO CHECK PCX-1500** (https://github.com/PeanutFIsh/pcx-1500/)
 
 News
 -----
