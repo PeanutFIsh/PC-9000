@@ -39,7 +39,7 @@ Older and Outdated news
       - PhonicsBASIC integration
       - BAS-9 Model 95 emulation
       - Customisable BIOS
-      - DowSM and Outel 2085 development abandonned since PhonicsBASIC replace it.
+      - DowSM and Outel 2085 development abandoned since PhonicsBASIC replace it.
       - Phonics VapeBIOS, the brand new BIOS!
       - Debug Menu improvement
       - I must continue developing PipeDOS 3 :/
